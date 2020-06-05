@@ -4,5 +4,5 @@
     We can either use API or extract data from webpages using a technique called web scraping to retrieve data.In this notebook we will do web scrapping of a website and make a dataframe of the data retrieved so that it can be used for further processing
   .Step by  step explanation is given .
     
-<p>You will learn data cleaning ,manuplation,request,response to and from a website.</p>
+<p>You will learn data cleaning ,manuplation,request,response to and from a website with an example .</p>
  Happy coding :)
